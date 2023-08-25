@@ -1,0 +1,20 @@
+.legalPage-container {
+	background-image: url("https://i.pinimg.com/736x/4c/3d/94/4c3d947e3c29ae2198a65084ec8adb4c.jpg");
+}
+/*change the background image of the page*/
+.legalpage-heading {
+	color: rgb(230, 168, 88);
+	font-style: italic;
+}
+/*change the color as well as font style of the heading*/
+.paragraphs {
+	font-style: italic;
+	font-size: small;
+}
+/*styling the font style and font size of the text in the paragraphs*/
+.ending-statement {
+	color: rgb(242, 212, 130);
+	font-size: x-small;
+	font-style: italic;
+}
+/*styling the color, font size and font style of the ending statement*/

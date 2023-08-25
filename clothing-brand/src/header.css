@@ -1,0 +1,51 @@
+.logo {
+	float: left;
+	margin-left: 30px;
+	width: 60px;
+	height: 50px;
+	border-radius: 5px;
+	margin-top: 45px;
+	border-style: dotted;
+	border-color: black;
+}
+/*styling to move the logo to the top left of the page and to adjust the size*/
+/*added a border and styled it to fit the page*/
+.main-heading {
+	text-align: center;
+	padding-right: 210px;
+	padding-top: 40px;
+	font-family: "CustomFont";
+	color: rgb(169, 108, 46);
+	margin-top: 10px;
+	font-size: xxx-large;
+}
+/*all main headings have similar styling on the page but the the header it contains a custom font*/
+/*padding right to push the heading closer to the logo but not effect the logo position*/
+.login {
+	float: right;
+	margin-right: 10px;
+	text-decoration: underline;
+	color: rgba(255, 164, 59, 0.674);
+	font-size: medium;
+	background-color: rgba(0, 0, 0, 0.562);
+}
+/*the login information floats right in the corner of the page and is underlined so it'll stand out more to the user*/
+.login:hover {
+	font-size: large;
+}
+/*if the user hovers over the login the font size will change from medium to large */
+.App {
+	max-width: 500px;
+	margin: auto;
+	background-color: white;
+}
+/*using .App in the parent file to create a smaller container for the page*/
+.header-background {
+	background-image: url("https://i.pinimg.com/564x/af/69/92/af69921bd04546c232d0a0aa3ba437c5.jpg");
+}
+/*imports a background imag using a url and the image address*/
+@font-face {
+	font-family: "CustomFont";
+	src: url("https://fonts.googleapis.com/css2?family=Pathway+Extreme:ital,wght@0,700;1,100&family=Quicksand:wght@300;500&family=Roboto+Condensed:ital,wght@1,700&display=swap");
+}
+/*@font-face to import a custom font for the file*/

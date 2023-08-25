@@ -1,0 +1,25 @@
+.landingPage-container {
+	background-image: url("https://i.pinimg.com/564x/37/07/f8/3707f86b1a68b3e95ab11a54915d606e.jpg");
+}
+/*changes thee background image of the page*/
+.l-text {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: small;
+}
+/*styles the text to a new font and font size*/
+.l-heading {
+	font-weight: 300;
+	color: antiquewhite;
+}
+/*styles the landing page heading to antique white and the font weight to 300 for bold*/
+.slogan {
+	font-family: cursive;
+	color: antiquewhite;
+}
+/*changes the font style to cursive and the color of the text*/
+.main-heading-page {
+	color: rgb(169, 108, 46);
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial;
+	font-size: xxx-larger;
+}
+/*changes the color of the heading as well as the font style and size*/

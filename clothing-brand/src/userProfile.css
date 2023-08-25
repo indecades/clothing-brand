@@ -1,0 +1,23 @@
+.userProfile-heading {
+    color: rgb(249, 208, 155);
+    text-decoration: underline;
+}
+/*styling the color of the heading as well as underlining it*/
+.userP-slogan {
+    color: rgba(255, 228, 196, 0.695);
+    font-family: cursive;
+    font-size: small;
+}
+/*styling the color, font and font size of the slogan*/
+.logout-button {
+    color: rgba(250, 235, 215, 0.784);
+    border-style: ridge;
+    border-radius: 5px;
+    background-color: rgba(48, 47, 47, 0.923);
+}
+/*styling the color of the text and background color of the button*/
+/*adding a ridge border and rounding the corners of the button*/
+.userProfile-container{
+    background-image: url('https://i.pinimg.com/564x/16/af/09/16af0997aa5c0764c4baea86dca4d29e.jpg');
+}
+/*changing the background image of the webpage*/

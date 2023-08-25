@@ -1,0 +1,35 @@
+.heading {
+	color: rgba(242, 151, 81, 0.838);
+	font-size: x-large;
+}
+/*styling the color of the heading as well and changing the font size*/
+.labels {
+	color: rgba(255, 228, 196, 0.855);
+	font-family: cursive;
+	font-size: small;
+}
+/*changing the color and font of the labels as well as the font size*/
+.input {
+	margin-left: 20px;
+}
+/*adding margin to the left of the input block to give space between the label and input box*/
+.button {
+	background-color: rgb(228, 163, 89);
+	border: none;
+	font-family: cursive;
+	font-size: medium;
+	margin-left: 190px;
+	border-radius: 5px;
+}
+/*changing the background color of the button as well as removing the border and rounding the corners of the button*/
+/*and pushing it away from the left margin with 190px*/
+/*changing the font to cursive of the text in the button and changing the font size to medium*/
+.calculator-container {
+	background-image: url("https://i.pinimg.com/736x/c7/53/36/c753360620a9ed2276eff4bf411372b1.jpg");
+}
+/*changing the background of the page to an image using url and the image address*/
+.sub-heading {
+	color: rgba(233, 193, 144, 0.896);
+	text-decoration: underline;
+}
+/*changing the color of the subheading as well as underlining the text*/
